@@ -1,5 +1,4 @@
 # Sivanandhini_Chandrasekar
-<!-- ======================= PREMIUM GITHUB PROFILE README ======================= -->
 
 <h1 align="center">
   👋 Hey there, I'm Nandy
@@ -10,19 +9,23 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Node.js+%7C+React+%7C+MongoDB;Data+Analysis+Enthusiast;Building+Inclusive+AI+Solutions;Open+to+Full+Stack+Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Data Engineer;Node.js+%7C+React+%7C+MongoDB;Data+Analysis+Enthusiast;Building+Inclusive+AI+Solutions;Open+to+Full+Stack+Roles" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-✨ I design and build scalable full-stack applications with real-world impact.
-🔍 Strong foundation in **JavaScript, Node.js, and data analysis**.
-📊 Love turning raw data into meaningful insights.
-♿ Passionate about **AI-powered assistive technology**.
-🏆 Special Prize — Women Hackathon 2024.
-🎯 Currently seeking **Full-Stack Developer opportunities**.
+*✨ I design and build scalable full-stack applications with real-world impact.
+
+*🔍 Strong foundation in **JavaScript, Node.js, and data analysis**.
+
+*📊 Love turning raw data into meaningful insights.
+
+*♿ Passionate about **AI-powered assistive technology**.
+
+*🏆 Special Prize — Women Hackathon 2024.
+*🎯 Currently seeking **Full-Stack Developer opportunities**.
 
 ---
 
@@ -117,18 +120,13 @@
 
 ## 🎯 Current Focus
 
-* 🔥 Advanced Node.js
+* 🔥 Data Engineer
 * 🧠 System Design fundamentals
 * 🤖 AI for Accessibility
 * 📊 Data-driven backend systems
 * 🧩 Advanced DSA practice
 
 ---
-
-## 🤝 Let's Connect
-
-💼 Open to Full-Stack Developer roles
-📫 Reach me via GitHub
 
 ---
 
