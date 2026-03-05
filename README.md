@@ -1,7 +1,7 @@
 # Sivanandhini_Chandrasekar
 
 <h1 align="center">
-  👋 Hey there, I'm Nandy
+  👋 Hey there, I'm Sivanandhini C
 </h1>
 
 <h3 align="center">
